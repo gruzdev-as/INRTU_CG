@@ -1,7 +1,7 @@
 # INTRU CG assignments (In progress)
 ## Description
 
-This repository contains the basic files of laboratory and practical work for students of the IIKB Baikal school BRICS INRTU.
+This repository contains the basic files of laboratory and practical work for students of the AIB, of the Baikal school BRICS, INRTU.
 Descriptions of laboratory work are presented directly in the notebook files.
 
 ## Content 
